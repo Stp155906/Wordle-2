@@ -5,7 +5,7 @@ https://github.com/Stp155906/Wordle-2/assets/71754706/5af444c1-a8b6-4905-914c-68
 
 Submitted by: **Shantalia**
 
-**Worldle ** is an app that ... [TODO] 
+**Wordle ** is an app that ... [TODO] 
 
 Time spent: **3** hours spent in total
 
