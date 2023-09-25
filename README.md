@@ -1,5 +1,7 @@
+
+https://github.com/Stp155906/Wordle-2/assets/71754706/5af444c1-a8b6-4905-914c-68d3fefe5843
 # ios101-project2-wordle-starter
-# Project 2 - *Name of App Here*
+# Project 2 - Wordle
 
 Submitted by: **Your Name Here**
 
@@ -15,6 +17,8 @@ The following **required** functionality is completed:
 - [ ] User can change the numbers of rows on the board (how many guesses allowed)
 - [ ] User can select a new themed set to pull the goal word from
 - [ ] User can select "alien wordle", causing the goal word to change after each guess
+
+
 
 
 The following **optional** features are implemented:
