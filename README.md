@@ -3,7 +3,7 @@ https://github.com/Stp155906/Wordle-2/assets/71754706/5af444c1-a8b6-4905-914c-68
 # ios101-project2-wordle-starter
 # Project 2 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: **wordle**
 
 **Name of your app** is an app that ... [TODO] 
 
